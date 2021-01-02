@@ -1,10 +1,12 @@
 Package: data4medic
 Type: Package
-Title: The PUP dataset
+Title: The PUP and metabolic datasets
 Version: 0.1.0
 Author: Kamarul Imran Musa
 Maintainer: Kamarul Imran Musa <drki.musa@gmail.com>
-Description: Dataset that contains data from peptic ulcer disease patients. 
+Description: Dataset that contains medical data
+    PUP dataset comes from peptic ulcer disease patients
+    metabolic dataset comes from subjects undergoing a metabolic syndrome study
     Use four spaces when indenting paragraphs within the Description.
 License: GPL-2
 Encoding: UTF-8
