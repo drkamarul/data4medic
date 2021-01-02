@@ -1,0 +1,14 @@
+Package: data4medic
+Type: Package
+Title: The PUP dataset
+Version: 0.1.0
+Author: Kamarul Imran Musa
+Maintainer: Kamarul Imran Musa <drki.musa@gmail.com>
+Description: Dataset that contains data from peptic ulcer disease patients. 
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
