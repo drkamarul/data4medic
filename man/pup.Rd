@@ -3,8 +3,7 @@
 \docType{data}
 \name{pup}
 \alias{pup}
-\title{PUP dataset
-Peptic Ulcer Disease patients}
+\title{PUP dataset}
 \format{
 A dataframe with columns and rows
 \describe{
@@ -17,7 +16,6 @@ A dataframe with columns and rows
 pup
 }
 \description{
-PUP dataset
-Peptic Ulcer Disease patients
+Data from Peptic Ulcer Disease patients
 }
 \keyword{datasets}

@@ -1,5 +1,5 @@
-#' PUP dataset
-#' Peptic Ulcer Disease patients
+#' @title PUP dataset
+#' @description Data from Peptic Ulcer Disease patients
 #' @format A dataframe with columns and rows
 #' \describe{
 #'  \item{no}{ID}

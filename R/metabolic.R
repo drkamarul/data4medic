@@ -1,5 +1,5 @@
-#' metabolic syndrome dataset
-#' Subjects of a metabolic syndrome study
+#' @title Metabolic Syndrome Dataset
+#' @description Data from subjects of a metabolic syndrome study
 #' @format A dataframe with columns and rows
 #' \describe{
 #'  \item{ID}{ID}
